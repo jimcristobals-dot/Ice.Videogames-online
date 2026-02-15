@@ -49,6 +49,6 @@ Usar datos de calificaciones y ESRB para evaluar riesgos y oportunidades.
 
 📈 Algunas Visualizaciones
 
-<img src="assets/gamesxyear.jpg" width="300"> <img src="assets/ratingventas.jpg" width="300"><img src="assets/distribucionvglobales.jpg" width="300">
+<img src="assets/gamesxyear.jpg" width="300"> <img src="assets/ratingventas.jpg" width="300"> <img src="assets/ventasanualxplat20132016.jpg" width="300"> 
+<img src="assets/resenas.jpg" width="500"><img src="assets/distribucionvglobales.jpg" width="500">
 
-<img src="assets/resenas.jpg" width="300"> <img src="assets/ventasanualxplat20132016.jpg" width="300"> 
